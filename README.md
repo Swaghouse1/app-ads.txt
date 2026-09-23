@@ -2,6 +2,7 @@
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Apr 27, 2026
+google.com, pub-8278684138202099, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-1666359843582959, DIRECT, f08c47fec0942fa0
 google.com, pub-2418115348772836, DIRECT, f08c47fec0942fa0
